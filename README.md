@@ -1,10 +1,16 @@
-# 👋 Hey there, I'm Vishesh Aggarwal
+# 👋 Hi, I'm Vishesh
 
-🎓 BTech CSE @ Bennett University
-💡 AIML & Full-Stack Developer | Builder | Problem Solver
+🎓 BTech CSE @ Bennett University \
+💡 AIML & Full-Stack Developer | Builder | Problem Solver \
 ⚡ Crafting scalable systems & meaningful products
 
 ---
+
+## 📊 GitHub Stats
+
+![Vishesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=visheshaggarwal0&show_icons=true&theme=tokyonight) &ensp;
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=visheshaggarwal0&layout=compact&theme=tokyonight)
+
 
 ## 🚀 About Me
 
@@ -51,56 +57,13 @@ I focus on writing **clean, scalable, and impactful code** that solves real prob
 * MySQL
 * SQLite
 
----
-
-### 📱 App Development
-
-* Android (Java)
-* SQLite
-
----
-
-### ⚙️ Tools & Technologies
+#### ⚙️ Tools & Technologies
 
 * Git & GitHub
 * REST APIs
 * CLI Tools
 * Automation Scripts
-* Postman
 * Basic Azure (Exploring ☁️)
-
----
-
-## 🚧 Projects
-
-### 📌 StudentLife App
-
-An all-in-one student productivity ecosystem
-
-* 📅 Smart timetable with notifications
-* ✅ Task & assignment tracking
-* 📂 Study material integration
-* 🔔 Reminder system (10 mins before class)
-
----
-
-### 📌 Banking Application (Python + Tkinter + MySQL)
-
-A desktop banking system with professional workflows
-
-* 🔐 OTP authentication system
-* 📧 Elegant email notifications
-* 💰 Transaction handling
-* 🏦 Loan application module
-
----
-
-### 📌 CLI Agentic AI Assistant (In Progress 🚀)
-
-* Lightweight terminal-based AI
-* Focus on speed and minimal system load
-* Exploring agent workflows & automation
-
 ---
 
 ## 🧠 Currently Exploring
@@ -109,14 +72,6 @@ A desktop banking system with professional workflows
 * ⚙️ Scalable Backend Architecture
 * 🌍 Full-Stack Optimization
 * ☁️ Cloud (Azure basics)
-
----
-
-## 📊 GitHub Stats
-
-![Vishesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=visheshaggarwal0&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=visheshaggarwal0&layout=compact&theme=tokyonight)
 
 ---
 
