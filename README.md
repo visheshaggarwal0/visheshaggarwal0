@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Vishesh
 
 🎓 BTech CSE @ Bennett University \
 💡 AIML & Full-Stack Developer | Builder | Problem Solver \
@@ -85,12 +84,6 @@ I focus on writing **clean, scalable, and impactful code** that solves real prob
 ## ✨ Philosophy
 
 > "Great software isn't just built — it's designed to scale, adapt, and last."
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building tools that **save time, reduce friction, and feel magical to use**.
 
 ---
 
