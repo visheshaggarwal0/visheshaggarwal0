@@ -1,6 +1,6 @@
 # Vishesh Aggarwal
 
-**AI/ML Engineer · Full-Stack Developer · Open Source Contributor**  
+**AI/ML Engineer · Full-Stack Developer · Automations**  
 New Delhi, India · [visheshaggarwal.me](https://visheshaggarwal.me) · [LinkedIn](https://linkedin.com/in/vishesh-aggarwal-14v)
 
 ---
